@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mutibo</string>
+    <string name="settings">Settings</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="difficulty">Difficulty level:</string>
+
+    <string name="button_start_game">Start game</string>
+    <string name="button_leaderboards">Leaderboards</string>
+    
+    <string name="levelEasy">Easy</string>
+    <string name="levelMedium">Medium</string>
+    <string name="levelHard">Hard</string>
+    
+    <string name="volume_level">Volume level:</string>
+    
+    <string name="save_settings">Return</string>
+    
+    <string name="score">Score:</string>
+    <string name="score_init_val">0</string>
+    <string name="score_separator">/</string>
+    
+    <string name="question">, which of these is not like the others?</string>
+
+    <string name="answer1">AAAAAAAAAAAAAAAAA AAAAAAAAAAAA AAAAAAAAAAAAAAA</string>
+    <string name="answer2">BBBBBBBBBBBB BBBBBBBBBBBBB BBBBBBBBBBBBBBBB BB</string>
+    <string name="answer3">CCCCCC CCCCCCCCCCCC CCCCCCCCCCCCC CCCCCCCCCCCC</string>
+    <string name="answer4">DDDD DDDDDDDDD DDDDDDDDDDDDDD DDDDDDDDDD DDDDD</string>
+    
+    <string name="reason">EEEEEEEEE EEEEEEEEE EEEEEEEEEE EEEEEEEE EEEEEEE FFFFFFFF FFFFFF</string>
+    <string name="rate">Rate this question</string>
+    
+    <string name="next_question">Next question</string>
+    
+    <string name="end_game">End Game</string>
+    
+    <string name="loading">Loading...</string>
+    
+    <string name="revoke">Revoke Token</string>
+    <string name="invalidate">Invalidate Token</string>
+    
+    <string name="achievements_not_available">Please sign in to view achievements.</string>
+    <string name="leaderboards_not_available">Please sign in to view leaderboards.</string>
+    <string name="signin_failure">Unable to sign in. Check your internet connection and try again later.</string>
+    <string name="signin_other_error">There was an issue with sign in.  Please try again later.</string>
+</resources>

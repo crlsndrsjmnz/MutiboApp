@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.7" icons="true" automaticImage="PNG" always-add-relationships="false" generalizations="true" 
+  realizations="true" associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" language="java" name="co.carlosandresjimenez.mocca.mutibo.base.BaseApp" project="MutiboAppCoursera" 
+    file="/MutiboAppCoursera/src/co/carlosandresjimenez/mocca/mutibo/base/BaseApp.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="386" width="232" x="3079" y="1255"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="co.carlosandresjimenez.mocca.mutibo.beans.Answer" project="MutiboAppCoursera" 
+    file="/MutiboAppCoursera/src/co/carlosandresjimenez/mocca/mutibo/beans/Answer.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="548" width="217" x="2688" y="2989"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="co.carlosandresjimenez.mocca.mutibo.cloud.CloudManager" 
+    project="MutiboAppCoursera" 
+    file="/MutiboAppCoursera/src/co/carlosandresjimenez/mocca/mutibo/cloud/CloudManager.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="512" width="269" x="3211" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="co.carlosandresjimenez.mocca.mutibo.cloud.CloudManager.MessengerHandler" 
+    project="MutiboAppCoursera" 
+    file="/MutiboAppCoursera/src/co/carlosandresjimenez/mocca/mutibo/cloud/CloudManager.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="116" width="275" x="3361" y="1255"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="co.carlosandresjimenez.mocca.mutibo.beans.QuestionSet" project="MutiboAppCoursera" 
+    file="/MutiboAppCoursera/src/co/carlosandresjimenez/mocca/mutibo/beans/QuestionSet.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="728" width="340" x="2576" y="2221"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="co.carlosandresjimenez.mocca.mutibo.beans.Session" project="MutiboAppCoursera" 
+    file="/MutiboAppCoursera/src/co/carlosandresjimenez/mocca/mutibo/beans/Session.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="566" width="369" x="2956" y="2221"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="co.carlosandresjimenez.mocca.mutibo.beans.SyncNotifier" 
+    project="MutiboAppCoursera" 
+    file="/MutiboAppCoursera/src/co/carlosandresjimenez/mocca/mutibo/beans/SyncNotifier.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="386" width="232" x="3365" y="2221"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="co.carlosandresjimenez.mocca.mutibo.cloud.AnswerIntentService" 
+    project="MutiboAppCoursera" 
+    file="/MutiboAppCoursera/src/co/carlosandresjimenez/mocca/mutibo/cloud/AnswerIntentService.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="134" width="307" x="41" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="co.carlosandresjimenez.mocca.mutibo.cloud.CallableTask" 
+    project="MutiboAppCoursera" 
+    file="/MutiboAppCoursera/src/co/carlosandresjimenez/mocca/mutibo/cloud/CallableTask.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="188" width="271" x="2826" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="co.carlosandresjimenez.mocca.mutibo.cloud.DownloadUtils" 
+    project="MutiboAppCoursera" 
+    file="/MutiboAppCoursera/src/co/carlosandresjimenez/mocca/mutibo/cloud/DownloadUtils.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="188" width="417" x="1967" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="co.carlosandresjimenez.mocca.mutibo.cloud.MutiboSvc" project="MutiboAppCoursera" 
+    file="/MutiboAppCoursera/src/co/carlosandresjimenez/mocca/mutibo/cloud/MutiboSvc.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="134" width="213" x="388" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="12" language="java" name="co.carlosandresjimenez.mocca.mutibo.cloud.MutiboSvcApi" 
+    project="MutiboAppCoursera" 
+    file="/MutiboAppCoursera/src/co/carlosandresjimenez/mocca/mutibo/cloud/MutiboSvcApi.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="404" width="339" x="388" y="1255"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="13" language="java" name="co.carlosandresjimenez.mocca.mutibo.cloud.QSetIntentService" 
+    project="MutiboAppCoursera" 
+    file="/MutiboAppCoursera/src/co/carlosandresjimenez/mocca/mutibo/cloud/QSetIntentService.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="134" width="301" x="991" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="co.carlosandresjimenez.mocca.mutibo.cloud.SessionIntentService" 
+    project="MutiboAppCoursera" 
+    file="/MutiboAppCoursera/src/co/carlosandresjimenez/mocca/mutibo/cloud/SessionIntentService.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="134" width="310" x="641" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="15" language="java" name="co.carlosandresjimenez.mocca.mutibo.cloud.TaskCallback" 
+    project="MutiboAppCoursera" 
+    file="/MutiboAppCoursera/src/co/carlosandresjimenez/mocca/mutibo/cloud/TaskCallback.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="98" width="213" x="2826" y="1255"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="16" language="java" name="co.carlosandresjimenez.mocca.mutibo.oauth.SecuredRestBuilder.OAuthHandler" 
+    project="MutiboAppCoursera" 
+    file="/MutiboAppCoursera/src/co/carlosandresjimenez/mocca/mutibo/oauth/SecuredRestBuilder.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="134" width="215" x="3676" y="1255"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="co.carlosandresjimenez.mocca.mutibo.oauth.SecuredRestBuilder" 
+    project="MutiboAppCoursera" 
+    file="/MutiboAppCoursera/src/co/carlosandresjimenez/mocca/mutibo/oauth/SecuredRestBuilder.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="332" width="371" x="3520" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="co.carlosandresjimenez.mocca.mutibo.oauth.SecuredRestException" 
+    project="MutiboAppCoursera" 
+    file="/MutiboAppCoursera/src/co/carlosandresjimenez/mocca/mutibo/oauth/SecuredRestException.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="152" width="252" x="1332" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="19" language="java" name="co.carlosandresjimenez.mocca.mutibo.ui.GamePlayFragment.Listener" 
+    project="MutiboAppCoursera" 
+    file="/MutiboAppCoursera/src/co/carlosandresjimenez/mocca/mutibo/ui/GamePlayFragment.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="260" width="245" x="2403" y="2989"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="20" language="java" name="co.carlosandresjimenez.mocca.mutibo.ui.GamePlayFragment" 
+    project="MutiboAppCoursera" 
+    file="/MutiboAppCoursera/src/co/carlosandresjimenez/mocca/mutibo/ui/GamePlayFragment.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="926" width="322" x="2464" y="1255"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="co.carlosandresjimenez.mocca.mutibo.ui.LoadIndicatorFragment" 
+    project="MutiboAppCoursera" 
+    file="/MutiboAppCoursera/src/co/carlosandresjimenez/mocca/mutibo/ui/LoadIndicatorFragment.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="98" width="322" x="2081" y="1255"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="co.carlosandresjimenez.mocca.mutibo.ui.MainActivity" project="MutiboAppCoursera" 
+    file="/MutiboAppCoursera/src/co/carlosandresjimenez/mocca/mutibo/ui/MainActivity.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="674" width="247" x="1834" y="2221"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="co.carlosandresjimenez.mocca.mutibo.ui.MainActivityBase" 
+    project="MutiboAppCoursera" 
+    file="/MutiboAppCoursera/src/co/carlosandresjimenez/mocca/mutibo/ui/MainActivityBase.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="1178" width="269" x="2424" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="24" language="java" name="co.carlosandresjimenez.mocca.mutibo.ui.MainMenuFragment.Listener" 
+    project="MutiboAppCoursera" 
+    file="/MutiboAppCoursera/src/co/carlosandresjimenez/mocca/mutibo/ui/MainMenuFragment.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="260" width="242" x="2121" y="2989"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="25" language="java" name="co.carlosandresjimenez.mocca.mutibo.ui.MainMenuFragment" 
+    project="MutiboAppCoursera" 
+    file="/MutiboAppCoursera/src/co/carlosandresjimenez/mocca/mutibo/ui/MainMenuFragment.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="332" width="322" x="2121" y="2221"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="26" language="java" name="co.carlosandresjimenez.mocca.mutibo.ui.SettingsFragment.Listener" 
+    project="MutiboAppCoursera" 
+    file="/MutiboAppCoursera/src/co/carlosandresjimenez/mocca/mutibo/ui/SettingsFragment.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="242" width="223" x="1719" y="2989"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="27" language="java" name="co.carlosandresjimenez.mocca.mutibo.ui.SettingsFragment" 
+    project="MutiboAppCoursera" 
+    file="/MutiboAppCoursera/src/co/carlosandresjimenez/mocca/mutibo/ui/SettingsFragment.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="458" width="322" x="1698" y="1255"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="co.carlosandresjimenez.mocca.mutibo.ui.UIUtils" project="MutiboAppCoursera" 
+    file="/MutiboAppCoursera/src/co/carlosandresjimenez/mocca/mutibo/ui/UIUtils.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="206" width="303" x="1624" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <nesting id="29">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="24"/>  
+  </nesting>  
+  <association id="30">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="31" name="qset"/>      
+      <multiplicity id="32" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="33">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="34" name="base"/>      
+      <multiplicity id="35" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="36">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="37" name="handler"/>      
+      <multiplicity id="38" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="39">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="26"/>  
+  </realization>  
+  <realization id="40">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="24"/>  
+  </realization>  
+  <association id="41">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="42" name="userAnswer"/>      
+      <multiplicity id="43" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="44">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="45" name="mListener"/>      
+      <multiplicity id="46" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="47">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="48" name="mSettingsFragment"/>      
+      <multiplicity id="49" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="50">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="51" name="syncNotifier"/>      
+      <multiplicity id="52" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="53">    
+    <bendpoint x="2473" y="2221"/>    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="19"/>  
+  </nesting>  
+  <association id="54">    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="55" name="mOpener"/>      
+      <multiplicity id="56" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="57">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="58" name="cloudManager"/>      
+      <multiplicity id="59" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="60">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="61" name="base"/>      
+      <multiplicity id="62" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="63">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="4"/>  
+  </nesting>  
+  <nesting id="64">    
+    <bendpoint x="1707" y="2221"/>    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="26"/>  
+  </nesting>  
+  <realization id="65">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="19"/>  
+  </realization>  
+  <association id="66">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="67" name="session"/>      
+      <multiplicity id="68" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="69">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="70" name="mLoadingScreenFragment"/>      
+      <multiplicity id="71" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="21" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="72">    
+    <bendpoint x="2545" y="2221"/>    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="73" name="userAnswer"/>      
+      <multiplicity id="74" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="75">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="76" name="mGamePlayFragment"/>      
+      <multiplicity id="77" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="78">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="79" name="qsets"/>      
+      <multiplicity id="80" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="81">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="82" name="callback_"/>      
+      <multiplicity id="83" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="84">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="85" name="videoSvc_"/>      
+      <multiplicity id="86" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="87">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="88" name="session"/>      
+      <multiplicity id="89" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="90">    
+    <bendpoint x="2494" y="2221"/>    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="91" name="mListener"/>      
+      <multiplicity id="92" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="93">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="94" name="mOpener"/>      
+      <multiplicity id="95" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="96">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="16"/>  
+  </nesting>  
+  <association id="97">    
+    <bendpoint x="2433" y="1255"/>    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="98" name="mMainMenuFragment"/>      
+      <multiplicity id="99" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="100">    
+    <bendpoint x="1728" y="2221"/>    
+    <end type="SOURCE" refId="27" navigable="false">      
+      <attribute id="101" name="mListener"/>      
+      <multiplicity id="102" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="103">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="104" name="singleton"/>      
+      <multiplicity id="105" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="106">    
+    <bendpoint x="2050" y="1255"/>    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="23"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="false" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="false" package="false" protected="false" private="false" static="true"/>    
+    <operations public="false" package="false" protected="false" private="false" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
